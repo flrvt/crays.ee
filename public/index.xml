@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flor Holvoet - Information Engineer</title>
+    <link>https://crays.ee/</link>
+    <description>Recent content on Flor Holvoet - Information Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 13:42:49 -0500</lastBuildDate>
+    
+	<atom:link href="https://crays.ee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://crays.ee/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://crays.ee/about/</guid>
+      <description>Business owners and managers face great challenges nowadays and it takes a crazy amount of dedication and innovation to stay on top of the game.
+Craysee became the name of my business as a self-employed computer nerd as I realised traditional thinking and solutions will not get us any further.
+Contact or hire me if you need a new approach to your business processes, IT solutions and cloud infrastructure.
+Yes, I&amp;rsquo;m a nerd.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://crays.ee/contact/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://crays.ee/contact/</guid>
+      <description>On the internet, they call me crays.ee
+You can call me at +32 487 43 50 66
+Flor Holvoet
+flor@crays.ee
+Brusselsestraat 318A/5
+3000 Leuven
+BTW BE0839.590.824
+IBAN BE40 7360 4079 8163
+Follow me on LinkedIn &amp;amp; Twitter</description>
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>https://crays.ee/legal/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://crays.ee/legal/</guid>
+      <description>I do not collect any personal data unless you choose to share it with me. I do however use Google Analytics to gather anonymous statistics about this website. You can opt out for this service here.
+This website was made using:
+Hugo and a modified version of this theme.</description>
+    </item>
+    
+  </channel>
+</rss>
