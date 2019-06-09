@@ -19,17 +19,17 @@ googleAnalytics          = "UA-46154855-2"             # Tracking code, eg. "UA-
     primaryImage         = "/screenshot.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/pricing"
+    link = "/pricing/"
     text = "Pricing"
     title = "Pricing"
 
 [[params.mainMenu]]
-    link = "/contact"
+    link = "/contact/"
     text = "Contact"
     title = "Contact"
 
 [[params.mainMenu]]
-    link = "/legal"
+    link = "/legal/"
     title = "Legal"
     
     
