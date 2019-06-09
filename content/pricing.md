@@ -1,6 +1,6 @@
 ---
 title: "Pricing"
-date: 2019-06-1T13:42:49-05:00
+date: 2019-06-08T13:42:49-05:00
 ---
 
 ## Cloud hosting

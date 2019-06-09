@@ -59,6 +59,7 @@ body {
 
 div.right {
   float:right;
+  padding-right:1rem;
 }
 
 div.clearfix {
@@ -77,8 +78,8 @@ article.single section,
   background-color: var(--base07);
   color: #2d2d2d;
   color: var(--base00);
-  padding-left: 8rem;
-  padding-right: 8rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
@@ -158,6 +159,7 @@ pre, code {
 header a.path, header div.path a {
   color: #6699cc;
   color: var(--base0d);
+  padding-left: 1rem;
 }
 
 header span.caret {
@@ -223,6 +225,7 @@ footer a {
   font-size: 3em;
   color: #ffcc66;
   color: var(--base0a);
+  padding-left:1rem;
 }
 
 @media (--breakpoint-md) {
@@ -263,8 +266,8 @@ footer a {
 }
 
 .article-list article {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   margin-bottom: 4rem;
 }
 
@@ -347,6 +350,7 @@ article.single h1.headline {
   font-size: 3em;
   color: #ffcc66;
   color: var(--base0a);
+  padding-left:1rem;
 }
 
 @media (--breakpoint-md) {
@@ -357,8 +361,8 @@ article.single h1.headline {
 }
 
 article.single section.body {
-  padding-top: 4rem;
-  padding-bottom: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 @media (--breakpoint-md) {
