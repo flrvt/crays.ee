@@ -23,7 +23,8 @@ We offer one package for all purposes. If you need something else, please contac
 | Webserver             | Apache and/or nginx |
 | HTTPS                 | ∞ Let's Encrypt certificates |
 | **Price**             | **€10 per month**  |
-|                       |                   |  
+|                       |                   |
+
 \
 We offer a personal setup for all customers. Therefore it is not instant. Please [**contact me**](/contact/) to place your order.  
 
@@ -48,7 +49,8 @@ Our superfast DNS servers are set up redundant around the globe in cooperation w
 | .info                   | **€16**             |
 | .net                    | **€16**             |
 | Any other TLD           | [**Ask for a quote**](/contact/)  |
-|                         |                   |  
+|                         |                   | 
+ 
 \
 Domain names are only available for purchase together with one or more hosting subscriptions.
 

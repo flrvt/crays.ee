@@ -14,9 +14,12 @@ googleAnalytics          = "UA-46154855-2"             # Tracking code, eg. "UA-
     homepage             = "Home"                        # What to call the home page link
 
 # Metadata
-    description          = "Our mission is to provide developers with highly performant webhosting in a shared/managed package."            # Max 160 characters show in search results
+    description          = "Our mission is to provide geeks with highly performant webhosting in a shared/managed package."            # Max 160 characters show in search results
     twitterCard          = "summary"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage         = "/screenshot.png"                     # Image that shows on Twitter cards and OpenGraph links
+
+[markup.goldmark.renderer]
+unsafe= true
 
 [[params.mainMenu]]
     link = "/pricing/"
