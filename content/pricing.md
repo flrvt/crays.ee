@@ -17,12 +17,12 @@ We offer one package for all purposes. If you need something else, please contac
 | Databases             | 50x MySQL         |
 | Mailboxes             | 5x POP3/IMAP      |
 | Outgoing mail         | PHP mail() or SMTP  |
-| PHP                   | Latest 7.x version of your choice |
+| PHP                   | Latest 8.x version of your choice |
 | Admin panel           | Plesk Onyx        |
 | Developer tools       | Git, SSH, SFTP...   |
 | Webserver             | Apache and/or nginx |
 | HTTPS                 | ∞ Let's Encrypt certificates |
-| **Price**             | **€10 per month**  |
+| **Price**             | **€19 per month**  |
 |                       |                   |
 
 \
@@ -34,20 +34,20 @@ We offer a personal setup for all customers. Therefore it is not instant. Please
 
 If you decide to host your domain name with us, we will take care of the registration or transfer for free.
 
-Our superfast DNS servers are set up redundant around the globe in cooperation with [bNamed](https://www.bnamed.net).
+Our superfast DNS servers are set up redundant around the globe in cooperation with [Hetzner](https://www.hetzner.com/).
 
 | TLD                     | Yearly fee        |
 |-------------------------|-------------------|
-| .be                     | **€12,5**             |
-| .nl                     | **€12,5**            |
-| .de                     | **€12,5**             |
-| .fr                     | **€12,5**             |
-| .eu                     | **€12,5**             |
-| .com                    | **€12,5**             |
-| .org                    | **€16**             |
-| .biz                    | **€16**             |
-| .info                   | **€16**             |
-| .net                    | **€16**             |
+| .be                     | **€19,5**             |
+| .nl                     | **€19,5**            |
+| .de                     | **€19,5**             |
+| .fr                     | **€19,5**             |
+| .eu                     | **€19,5**             |
+| .com                    | **€19,5**             |
+| .org                    | **€22**             |
+| .biz                    | **€22**             |
+| .info                   | **€22**             |
+| .net                    | **€22**             |
 | Any other TLD           | [**Ask for a quote**](/contact/)  |
 |                         |                   | 
  

@@ -9,7 +9,7 @@
 {{- with $.Param "author" }}
 <meta name="author" content="{{ . }}">
 {{- end }}
-{{ .Hugo.Generator }}
+{{ hugo.Generator }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v=3" type="text/css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" type="text/css">
@@ -32,17 +32,6 @@
 <meta property="twitter:image" content="{{ .Site.BaseURL }}screenshot.png" />
 <meta property="twitter:card" content="summary" />
 <meta property="twitter:description" content="{{ .Description | default .Site.Params.description }}" />
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-{{ if .Site.GoogleAnalytics }}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{.Site.GoogleAnalytics}}"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', '{{.Site.GoogleAnalytics}}');
-</script>
-{{ end }}
 
 </head>
 <body>

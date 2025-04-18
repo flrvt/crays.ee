@@ -5,7 +5,6 @@ theme                    = "base16"
 pygmentsStyle            = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 pygmentsuseclasses       = true
-googleAnalytics          = "UA-46154855-2"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
     dateform             = "02/01/2006"

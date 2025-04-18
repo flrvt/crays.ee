@@ -10,8 +10,6 @@ Craysee Webshosting is an undertaking by [Flor Holvoet BV](https://www.florholvo
 [WhatsApp](https://wa.me/32487435066)  
 
 **FLOR HOLVOET BV**  
-Dascottelei 133/16  
-2100 Antwerpen, Belgium
 
 **VAT** BE0739665976  
 **KBC** BE45 7370 5195 7889  
